@@ -16,4 +16,4 @@ This project fetches images of dogs and a list of dog breeds from APIs and rende
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nathanchepkonga/Fetch-Dog-CEO.git
