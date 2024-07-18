@@ -17,3 +17,6 @@ This project fetches images of dogs and a list of dog breeds from APIs and rende
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nathanchepkonga/Fetch-Dog-CEO.git
+##
+-view in site
+https://nathanfetchdogceo.netlify.app/
